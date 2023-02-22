@@ -23,3 +23,5 @@ for i in range(0,5):
 print(numbers)
 print(sum(numbers))
 print(product(numbers))
+
+#This is a coment that is for part 10.
