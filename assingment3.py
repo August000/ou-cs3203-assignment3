@@ -12,6 +12,9 @@ def product(numbers):
         totalProduct *= numbers[i]
     return totalProduct
     
+def reverseOrder(numbers):
+    return list(reversed(numbers))
+    
 numbers = []
 
 print("insert five numbers to be used in the operations")
